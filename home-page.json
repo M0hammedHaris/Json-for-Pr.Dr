@@ -1,22 +1,22 @@
 [
   {
     "img_url": "https://www.publicdomainpictures.net/pictures/270000/nahled/diet-fat-loss-weightloss-liposuc.jpg", 
-    "target_url": "http://www.json-generator.com/api/json/get/bTMziZPxnS?indent=2", 
+    "target_url": "https://raw.githubusercontent.com/M0hammedHaris/Json-for-Pr.Dr/master/tips-data/weight-loss-tips.json", 
     "title": "Weight Loss"
   }, 
   {
     "img_url": "https://www.mooihoofd.nl/image/data/danny%20info%20fotos/haaruitval%20tekening%20kam.jpg", 
-    "target_url": "http://www.json-generator.com/api/json/get/bTMziZPxnS?indent=2", 
+    "target_url": "https://raw.githubusercontent.com/M0hammedHaris/Json-for-Pr.Dr/master/tips-data/hair-fall-tips.json", 
     "title": "Hair Fall"
   }, 
   {
     "img_url": "https://storage.needpix.com/rsynced_images/alarm-clock-154665_1280.png", 
-    "target_url": "http://www.json-generator.com/api/json/get/bTMziZPxnS?indent=2", 
+    "target_url": "https://raw.githubusercontent.com/M0hammedHaris/Json-for-Pr.Dr/master/tips-data/lazyness-tips.json", 
     "title": "Lazyness"
   }, 
   {
     "img_url": "https://storage.needpix.com/rsynced_images/beautiful-bride.jpg", 
-    "target_url": "http://www.json-generator.com/api/json/get/bTMziZPxnS?indent=2", 
+    "target_url": "https://raw.githubusercontent.com/M0hammedHaris/Json-for-Pr.Dr/master/tips-data/beauty-tips.json", 
     "title": "Beauty Tips"
   }
 ]
