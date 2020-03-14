@@ -1,7 +1,7 @@
 [
     {
-        "title": "Cumin seed",
-        "img_url": "https://storage.needpix.com/rsynced_images/whole-cumin-1049551_1280.jpg",
+        "title": "Cumin seed(சீரகம்)",
+        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sa_cumin.jpg/1280px-Sa_cumin.jpg",
         "wiki_en": "https://en.m.wikipedia.org/wiki/Cumin",
         "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%9A%E0%AF%80%E0%AE%B0%E0%AE%95%E0%AE%AE%E0%AF%8D"
     },
@@ -16,5 +16,29 @@
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Acalypha_indica.JPG/800px-Acalypha_indica.JPG",
         "wiki_en": "https://en.m.wikipedia.org/wiki/Acalypha_indica",
         "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%88%E0%AE%AE%E0%AF%87%E0%AE%A9%E0%AE%BF"
+    },
+    {
+        "title": "Basil",
+        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Plant%2C_wild_basil.JPG/800px-Plant%2C_wild_basil.JPG",
+        "wiki_en": "https://en.m.wikipedia.org/wiki/Basil",
+        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%A4%E0%AF%81%E0%AE%B3%E0%AE%9A%E0%AE%BF9"
+    },
+    {
+        "title": "Ginger",
+        "img_url": "https://cdn.pixabay.com/photo/2018/08/04/16/58/ginger-3584005_960_720.jpg",
+        "wiki_en": "https://en.m.wikipedia.org/wiki/Ginger",
+        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%87%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BF"
+    },
+    {
+        "title": "Uthamani leaf",
+        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/A_View_of_kuppaimeni_-herbs.jpg/800px-A_View_of_kuppaimeni_-herbs.jpg",
+        "wiki_en": "https://en.m.wikipedia.org/wiki/Pergularia_daemia",
+        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%B5%E0%AF%87%E0%AE%B2%E0%AE%BF%E0%AE%AA%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF"
+    },
+    {
+        "title": "Leaves of camphor",
+        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cinnamomum_camphora_002.JPG/799px-Cinnamomum_camphora_002.JPG",
+        "wiki_en": "https://www.hunker.com/13428568/facts-on-the-camphor-tree",
+        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AF%82%E0%AE%B0%E0%AE%AE%E0%AF%8D"
     }
 ]
