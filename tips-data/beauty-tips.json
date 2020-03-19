@@ -1,26 +1,4 @@
 [
-<<<<<<< HEAD
-    {"title":"Clear skin",
-    "content":"Mix honey with lemon juice and apply to get clear skin "},
-    {"title":"Pimples",
-    "content":" Mix sandalwood powder with milk and gently apply the mixture to the skin"},
-    {"title":"Facial hair removal",
-    "content":" Mix neem-leaf powder and turmeric and apply regularly on face"},
-    {"title":"Removal of whiteheads",
-    "content":" Mix lime powder and ammonium and apply on affected areas"},
-    {"title":"Glowing skin",
-    "content":" Make a fine paste of sandalwood powder with rice flour and use as a scrub regularly"},
-    {"title":"Dark circles",
-    "content":" Take potato juice, dip a cotton ball and apply around the eyes every night"},
-    {"title":"Dark spots",
-    "content":" Mix raddish juice with buttermilk and apply on dark spots"},
-    {"title":"Scar in face",
-    "content":"Take little amount of alum and mix with water and do face wash everyday to get better results "},
-    {"title":"Light pimples",
-    "content":" Apply a mixture of green gram flour with lemon juice on pimples only"},
-    {"title":"Wrinkles",
-    "content":" Grind dried orange peel into a fine powder and mix with curd and apply to the wrinkles and face. Wash after 10 Minutes."}
-=======
     {"title":"clear skin",
     "content":"mix honey and lemon juice ...",
     "desc": "mix honey and lemon juice and apply to get clear skin"},
@@ -51,5 +29,4 @@
     {"title":"wrinkles",
     "desc":"powder the dried orange peel and mix with curd and apply to the wrinkles and face after 10minutes",
     "content":"powder the dried orange peel and mix with curd ..."}
->>>>>>> 36eeb7e45c8c03ce49bca596f61b23980aabee60
     ]
