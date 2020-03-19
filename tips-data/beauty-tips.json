@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
     {"title":"Clear skin",
     "content":"Mix honey with lemon juice and apply to get clear skin "},
     {"title":"Pimples",
@@ -19,4 +20,36 @@
     "content":" Apply a mixture of green gram flour with lemon juice on pimples only"},
     {"title":"Wrinkles",
     "content":" Grind dried orange peel into a fine powder and mix with curd and apply to the wrinkles and face. Wash after 10 Minutes."}
+=======
+    {"title":"clear skin",
+    "content":"mix honey and lemon juice ...",
+    "desc": "mix honey and lemon juice and apply to get clear skin"},
+    {"title":"pimples",
+    "content":" mix sandalwood powder with milk ...",
+     "desc":"mix sandalwood powder with milk and make a smooth apply to pimples"},
+    {"title":"facial hair removal",
+    "content":"take neem leafpowder with turmeric ...",
+    "desc":"take neem leafpowder with turmeric and apply regularly on face"},
+    {"title":"removal of whiteheads in face",
+    "desc":"mix lime powder and ammonium and apply on affected areas",
+    "content":"mix lime powder and ammonium ..."},
+    {"title":"Glowing skin",
+    "desc":"Make a fine paste of sandalwood powder with rice flour and use as a scrub for skin glowing",
+    "content":"Make a fine paste of sandalwood powder with rice flour ..."},
+    {"title":"dark circles in eyes",
+    "desc":"take potato juice dip a cotton and apply all over the eyes every night",
+    "content":"take potato juice dip a cotton ..."},
+    {"title":"Dark spots",
+    "desc":"mix raddish juice and buttermilk and apply on dark spots",
+    "content":"mix raddish juice and buttermilk ..."},
+    {"title":"scar in face",
+    "desc":"take little amount of alum and mix with water and do face wash everyday to get better results",
+    "content":"take little amount of alum and mix with water ..."},
+    {"title":"Light pimples",
+    "desc":"apply a mixture of green gram flour with lemon juice on pimples only",
+    "content":"apply a mixture of green gram flour ..."},
+    {"title":"wrinkles",
+    "desc":"powder the dried orange peel and mix with curd and apply to the wrinkles and face after 10minutes",
+    "content":"powder the dried orange peel and mix with curd ..."}
+>>>>>>> 36eeb7e45c8c03ce49bca596f61b23980aabee60
     ]
